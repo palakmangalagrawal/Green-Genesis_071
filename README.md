@@ -16,6 +16,6 @@
 - [Test summary](https://docs.google.com/document/d/1t_8wgENsmN771jGYtKJSiPT09WoO36Ziu-M71d4z_hQ/edit?usp=sharing)
 
 ## FEEDBACK
- If you have any feedback to give, please connect me at
+ If you have any feedback to give, please connect me at 
  palakmangalagrawal@gmail.com
  
