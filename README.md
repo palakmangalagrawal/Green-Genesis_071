@@ -8,7 +8,7 @@
 ## Deployed App
  https://demo.mercury.com/dashboard
 ## Directory Structure
- => Daily Practice of Manual Testing
+ => Daily Practice of Manual Testing <br/>
  => Assignments
  => Daily DLC
  => Construct Week
