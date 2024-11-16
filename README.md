@@ -1,4 +1,4 @@
-# Green-Genesis_071 
+# Mercury Demo 
 ![Screenshot 2024-11-15 210226](https://github.com/user-attachments/assets/fde0fc1c-e278-4794-a295-1d227053ea11)
 
 ## INTRODUCTION
