@@ -8,17 +8,17 @@
 ## Deployed App
  https://demo.mercury.com/dashboard
 ## Directory Structure
- => Daily Practice of Manual Testing <br/>
- => Assignments
- => Daily DLC
- => Construct Week
- => Project
- => Test Plan
- => Mind Map
- => Test Scenarios
- => Test Cases 
- => Bug Report
- => Summary Report
+ => Daily Practice of Manual Testing    <br/>
+ => Assignments       <br/>
+ => Daily DLC         <br/>
+ => Construct Week    <br/>
+ => Project           <br/>
+ => Test Plan         <br/>
+ => Mind Map          <br/>
+ => Test Scenarios    <br/>
+ => Test Cases        <br/>
+ => Bug Report        <br/>
+ => Summary Report     
  
 ## TEST ARTFACTS
 - [Test plan](https://docs.google.com/document/d/1ql1Us-_5sjeO85h6_JSMvfzqmUoEsv9UlvcfidNW2zg/edit?usp=sharing)
