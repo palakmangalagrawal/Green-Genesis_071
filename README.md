@@ -21,11 +21,11 @@
  => Summary Report    <br/>
 
 ## RECOMENDATIONS AND SUGGESTIONS
- # RECOMENDATIONS : 
+ ### RECOMENDATIONS : 
  1. Implement guided tutorials to improve user onboarding.
  2. Clearer navigation simplifies access to key tools like invoicing and pay bill.
  3. Include real-life success stories to demonstrate practical use cases and boost credibility.
-# SUGGESTIONS :
+### SUGGESTIONS :
 1. Adding more video demos to visually explain featues.
 2. Explore offering a live chat feature to address user queries in real time,
 3. Think About introducing user feedback surveys to gather insights for further improvements.
