@@ -7,6 +7,19 @@
  Manual testing
 ## Deployed App
  https://demo.mercury.com/dashboard
+## Directory Structure
+ => Daily Practice of Manual Testing
+ => Assignments
+ => Daily DLC
+ => Construct Week
+ => Project
+ => Test Plan
+ => Mind Map
+ => Test Scenarios
+ => Test Cases 
+ => Bug Report
+ => Summary Report
+ 
 ## TEST ARTFACTS
 - [Test plan](https://docs.google.com/document/d/1ql1Us-_5sjeO85h6_JSMvfzqmUoEsv9UlvcfidNW2zg/edit?usp=sharing)
 - [Mind Map](https://drive.google.com/file/d/1uc5a5H-brepWlGBhYWA2asLPPN_lepXo/view?usp=sharing)
