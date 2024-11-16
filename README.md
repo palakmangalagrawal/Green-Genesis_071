@@ -18,7 +18,17 @@
  => Test Scenarios    <br/>
  => Test Cases        <br/>
  => Bug Report        <br/>
- => Summary Report     
+ => Summary Report    <br/>
+
+## RECOMENDATIONS AND SUGGESTIONS
+ # RECOMENDATIONS : 
+ 1. Implement guided tutorials to improve user onboarding.
+ 2. Clearer navigation simplifies access to key tools like invoicing and pay bill.
+ 3. Include real-life success stories to demonstrate practical use cases and boost credibility.
+# SUGGESTIONS :
+1. Adding more video demos to visually explain featues.
+2. Explore offering a live chat feature to address user queries in real time,
+3. Think About introducing user feedback surveys to gather insights for further improvements.
  
 ## TEST ARTFACTS
 - [Test plan](https://docs.google.com/document/d/1ql1Us-_5sjeO85h6_JSMvfzqmUoEsv9UlvcfidNW2zg/edit?usp=sharing)
